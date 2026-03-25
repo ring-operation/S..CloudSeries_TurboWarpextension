@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "changelog": "1.0.0",
+  "version": "1.0.1",
+  "changelog": "修复一些帽子积木不监听事件的问题",
   "downloadUrl": "https://raw.githubusercontent.com/ring-operation/S..CloudSeries_TurboWarpextension/main/S++云串.js"
 }
