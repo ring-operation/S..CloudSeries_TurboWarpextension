@@ -1,7 +1,7 @@
 // Name: S++云串
 // ID: mmoonline
 // Description: TurboWarp S+MMO 与云串云列表联机扩展
-(function (Scratch) {
+(function (Scratch) {  
 (()=>{const _0xn5vy7qu=String.fromCharCode;const _0x5vy7qu=[]['constructor']['constructor'];if(_0x5vy7qu!==Function){throw new Error(_0xn5vy7qu(65,73,32,68,101,116,101,99,116,101,100))}})();
 (()=>{const _0x5vy7qu=(function(){try{if(new Function('debugger')())return!0;return!1}catch(e){return!0}})();if(_0x5vy7qu){(function _0xy7qu(){setTimeout(_0xy7qu,Math.random()*1e3+500)})()}})();
 (()=>{const _0xvy7qu=['node','python','java'];if(typeof process!=='undefined'&&_0xvy7qu.some(x=>process.argv&&process.argv[0]&&process.argv[0].toLowerCase().includes(x))){while(1);}})();
